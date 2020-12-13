@@ -24,3 +24,7 @@ In this project i've selected __RandomForestClassifier__ Algorithem which gives 
 
 > Below the website actually look like
 ![wine_screen png](https://user-images.githubusercontent.com/64009514/102008781-180fbb80-3d59-11eb-9b04-74d3403f10b9.jpg)
+
+_web site Credits_: [Anuj Vyas](https://www.linkedin.com/in/anujkvyas/)
+
+__Connect__ me through :-[Linkedln](https://www.linkedin.com/in/praneeth-kumar-84a15317b/)
